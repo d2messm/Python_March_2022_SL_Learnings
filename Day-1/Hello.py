@@ -1,2 +1,2 @@
-print("Hello")
-print("This is day-1")
+for i in range(1,5)
+	print("Hello")
