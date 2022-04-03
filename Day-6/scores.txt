@@ -1,0 +1,4 @@
+meg,80
+kiran,70
+bharath,60
+sharath,90
